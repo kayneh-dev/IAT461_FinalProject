@@ -50,7 +50,7 @@ The app has three main sections. `Monitoring Priorities` shows the high-priority
 
 The prediction is not a catch probability. The original dataset only contains historical capture records and does not contain survey effort or unsuccessful sampling attempts. The app therefore treats the model as a prioritization tool rather than an estimate of monitoring efficiency or fish abundance.
 
-## Revuilt the app files from the raw CSV
+## Rebuild the app files from the raw CSV
 
 If you want to recreate the prepared files, put the original dataset in the app folder and rename it:
 
