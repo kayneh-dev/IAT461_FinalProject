@@ -1,4 +1,4 @@
-#Notes
+# Notes
 
 Aug 11, 2026
 For the final delivery presentation video, since the video file was too large to upload, it is in the following drive file:
